@@ -1,0 +1,19 @@
+{
+    "account":[
+        {
+            "name":"Ray1",
+            "username":"ray1",
+            "password":"123"
+        },
+        {
+            "name":"Ray2",
+            "username":"ray2",
+            "password":"223"
+        },
+        {
+            "name":"Ray3",
+            "username":"ray3",
+            "password":"323"
+        }
+    ]  
+}
