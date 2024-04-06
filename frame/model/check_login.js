@@ -12,7 +12,7 @@ async function check_account(account,password){
       host: '127.0.0.1',
       user: 'root',
       password: '0904Ray',
-      database: 'english_trainer',
+      database: 'login',
     });
 
     console.log('Connected to MySQL database!');
@@ -55,7 +55,7 @@ async function check_account(account,password){
     host: '127.0.0.1',
     user: 'root',
     password: '0904Ray',
-    database: 'english_trainer'
+    database: 'login'
   });
   // connect to the MySQL database
   connection.connect((error) => {
@@ -95,7 +95,7 @@ async function chenck_token(token){
       host: '127.0.0.1',
       user: 'root',
       password: '0904Ray',
-      database: 'english_trainer'
+      database: 'login'
     });
 
     // connect to the MySQL database
