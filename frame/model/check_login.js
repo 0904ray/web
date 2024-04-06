@@ -126,7 +126,7 @@ async function chenck_token(token){
     host: '127.0.0.1',
     user: 'root',
     password: '0904Ray',
-    database: 'english_trainer'
+    database: 'login'
   });
   // connect to the MySQL database
   connection.connect((error) => {
