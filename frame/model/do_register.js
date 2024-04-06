@@ -9,7 +9,7 @@ async function register(account,username,password){
       host: '127.0.0.1',
       user: 'root',
       password: '0904Ray',
-      database: 'english_trainer'
+      database: 'login'
     });
 
     // connect to the MySQL database
